@@ -1,0 +1,11 @@
+﻿  lab(OP)_2.c
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(25,9): error C2086: float h: переопределение
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(13): message : см. объявление "h"
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(28,8): error C2374: g: переопределение; множественная инициализация
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(14): message : см. объявление "g"
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(29,8): error C2374: t: переопределение; множественная инициализация
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(15): message : см. объявление "t"
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(38,15): error C2086: float h: переопределение
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(13): message : см. объявление "h"
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(28,1): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\ОП\lab_2\lab(OP)_2\lab(OP)_2\lab(OP)_2.c(29,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных

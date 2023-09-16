@@ -1,0 +1,4 @@
+﻿  task 2.c
+D:\уник\ОП\lab_2\lab(OP)_2\task 2\task 2.c(12,1): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\ОП\lab_2\lab(OP)_2\task 2\task 2.c(13,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  task 2.vcxproj -> D:\уник\ОП\lab_2\lab(OP)_2\x64\Debug\task 2.exe
