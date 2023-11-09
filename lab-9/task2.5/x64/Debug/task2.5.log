@@ -1,0 +1,5 @@
+﻿D:\visual studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (task2.5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Task2.4.cpp
+D:\уник\ОАиП_(Савельев)\lab-9\task2.5\Task2.4.cpp(134,16): warning C4101: hBrush: неиспользованная локальная переменная
+D:\уник\ОАиП_(Савельев)\lab-9\task2.5\Task2.4.cpp(133,14): warning C4101: hPen: неиспользованная локальная переменная
+  task2.5.vcxproj -> D:\уник\ОАиП_(Савельев)\lab-9\x64\Debug\task2.4.exe
